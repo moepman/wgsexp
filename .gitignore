@@ -1,0 +1,6 @@
+.eggs/
+.idea/
+.mypy_cache/
+venv/
+*.egg-info/
+*.pyc
